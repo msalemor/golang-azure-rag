@@ -1,0 +1,4 @@
+wwwroot/*
+.env
+.env.local
+*.http
