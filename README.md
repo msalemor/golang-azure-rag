@@ -2,6 +2,14 @@
 
 A Golang Azure OpenAI and AI Search RAG implementation.
 
+![Screenshot of the running application](images/golang-azure-rag.png)
+
+## AI Search
+
+Reference:
+- [Integrated Vectorization](https://learn.microsoft.com/en-us/azure/search/vector-search-integrated-vectorization)
+- [Semantic Ranking](https://learn.microsoft.com/en-us/azure/search/semantic-search-overview)
+
 ## Foundational concepts
 
 - Calling Azure OpenAI using REST
@@ -10,10 +18,12 @@ A Golang Azure OpenAI and AI Search RAG implementation.
 - Using content as part of the RAG response
 - Thread (conversation) management
 
+
 ## Backend
 
 - Go 1.22
 - Gin
+- godotenv
 
 ## Frontend
 
