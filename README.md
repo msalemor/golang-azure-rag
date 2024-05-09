@@ -4,6 +4,10 @@ A Golang Azure OpenAI and AI Search RAG implementation.
 
 ![Screenshot of the running application](images/golang-azure-rag.png)
 
+## Objective
+
+To showcase a RAG application written in Go leveraging Azure OpenAI and Azure AI Searcy.
+
 ## AI Search
 
 Reference:
